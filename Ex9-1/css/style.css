@@ -1,0 +1,34 @@
+table{
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+    height: 30px;
+}
+
+.list1{
+    width: 75px;
+}
+.list2{
+    width: 190px;
+}
+.list3{
+    width: 115px;
+}
+.list5{
+    width: 35px;
+}
+.list6{
+    height: 90px;
+}
+.list8{
+    height: 65px;
+}
+.list9{
+    width: 80px;
+}
+.list10{
+    width: 155px;
+}

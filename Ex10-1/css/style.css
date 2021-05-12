@@ -1,0 +1,55 @@
+.demo{
+    height: 115px;
+    width: 815px;
+}
+img{
+    width: 815px;
+    height: 230px;
+}
+.demo p{
+    margin: 0;
+    padding: 0;
+    margin: auto;
+    width: 735px;
+    text-align: center;
+    padding-top: 35px;
+    padding-bottom: 50px;
+    border-bottom: 3px solid #53a4f4;
+}
+.file{
+    width: 105px;
+    height: 35px;
+    border: none;
+    margin-top: 55px;
+    color: #ffffff;
+    background-color: #53a4f4;
+    border-radius: 5px;
+}
+span{
+    color:#ff6d7c ;
+}
+.kuang{
+    margin-top: 10px;
+    height: 45px;
+    width: 360px;
+}
+.date{
+    height: 1680px;
+    width: 815px;
+    margin: auto;
+}
+.data{
+    margin-bottom: 20px;
+}
+.data1{
+    height: 25px;
+    width: 360px;
+}
+.data2{
+    margin-left: 10px;
+}
+.data3{
+    margin: auto;
+    width: 735px;
+    height: 1250px;
+}

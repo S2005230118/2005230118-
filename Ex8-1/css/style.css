@@ -1,0 +1,118 @@
+body{
+    background-color: #fff;
+    padding: 0;
+    margin: 0;
+    font: 12px/1.5 Microsoft YaHei,Heiti SC,tahoma,arial,Hiragino Sans GB,"\5B8B\4F53",sans-serif;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 12px;
+    font-family: "Microsoft YaHei", "Heiti SC", tahoma, arial, "Hiragino Sans GB", 宋体, sans-serif;
+}
+.beijing{
+    height: 30px;
+    border-bottom: 1px solid #ddd;
+    background-color: #e3e4e5;
+}
+.limiang{
+    height: 30px;
+    line-height: 30px;
+    color: #999;
+    margin: auto;
+    width: 1190px;
+}
+.limiang img{
+    height: 30px;
+}
+.limiang a{
+    text-decoration: none;
+}
+.limiang span{
+    line-height: 30px;
+    position: absolute;
+    color: #666;
+}
+.wangye{
+    float: right;
+    padding: 0;
+    margin: 0;
+    line-height: 30px;
+    position: relative;
+}
+.wangye li{
+    float: left;
+    list-style: none;
+}
+.dierge{
+    color: #f10215;
+}
+.diyige{
+    margin-right: 8px;
+    color: #999;
+}
+.hui{
+    color: #999;
+}
+.dier1{
+    padding-left: 7px;
+    padding-right: 7px;
+}
+.dier2{
+    padding-left: 7px;
+    padding-right: 20px;
+    overflow: hidden;
+    position: relative;
+    float: left;
+    border: 1px solid #e3e4e5;
+}
+.tubiao{
+    position: absolute;
+    right: 5px;
+    top: 10px;
+    width: 12px;
+    height: 12px;
+    line-height: 12px;
+    font-family: iconfon ,sans-serif;
+    font-style: normal;
+}
+.wangye li.xian{
+    overflow: hidden;
+    margin: 11px 5px 0;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+}
+
+.coco{
+    width: 280px;
+    position: absolute;
+    top: 30px;
+    line-height: 24px;
+    display: block;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+.yidiandian{
+    padding: 10px 0 10px 15px;
+    overflow: hidden;
+}
+.tainanle{
+    float: left;
+    width: 126px;
+}
+.xica{
+    border-top: 1px solid #f1f1f1; 
+}
+.coco a{
+    color: #999;;
+}
+.wangye a:hover{
+    color: #e33333;
+}
+.lll{
+    width: 1536px;
+}
